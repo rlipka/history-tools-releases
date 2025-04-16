@@ -1,4 +1,4 @@
-# ❓ FAQ — Tudo que você precisa saber sobre o HistoryTools 🎮
+# HistoryTools 🎮
 
 ## 🧠 O que é o HistoryTools?
 
@@ -10,6 +10,8 @@ Com o HistoryTools, você automatiza ações repetitivas no jogo (com **macros p
 - ⚡ Acelerar seu progresso
 - 💆‍♂️ Evitar dor no braço (literalmente! kkk)
 - 🎯 E focar no que realmente importa: **se divertir!**
+
+---
 
 ## 🖥️ Como instalo o HistoryTools?
 
@@ -28,6 +30,8 @@ Se seu computador ainda não tiver o **.NET Desktop Runtime 8**, o próprio Wind
 ✅ **É só seguir os passos da tela**, clicar em “Instalar” e pronto!
 Se preferir fazer manualmente, você pode baixar aqui:
 👉 [https://dotnet.microsoft.com/en-us/download/dotnet/8.0/runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0/runtime)
+
+---
 
 ### 🛡️ O Windows Defender bloqueou o HistoryTools! E agora?
 
@@ -51,6 +55,8 @@ Siga esse passo a passo fácil:
 
 Prontinho! Agora o Defender não vai mais interferir. 😎
 
+---
+
 ## 🔐 O HistoryTools é seguro? Ele coleta dados?
 
 Sim, é seguro. E não, **ele não coleta nenhum dado seu**.
@@ -63,6 +69,8 @@ O HistoryTools foi feito com base em outras ferramentas conhecidas da comunidade
 
 Seu computador e suas informações continuam seguros. 🔒✨
 
+---
+
 ## 🧪 Posso usar com antivírus instalado?
 
 Pode sim! 👌
@@ -72,6 +80,8 @@ Mas alguns antivírus também podem estranhar o comportamento do macro (por mexe
 - Adicionar o `HistoryTools.exe` e sua pasta à **lista de exceções do antivírus**
 - Se não souber como fazer isso, procure por “adicionar exclusão” ou “lista segura” no menu do seu antivírus
 
+---
+
 ## 🔁 Dá pra importar configurações de outros programas como 4RTools?
 
 Não. O **HistoryTools tem seu próprio sistema de configurações**.
@@ -79,6 +89,8 @@ Não. O **HistoryTools tem seu próprio sistema de configurações**.
 Ele foi desenvolvido usando uma tecnologia diferente dos demais macros disponíveis atualmente. Ou seja: nada de aceitar perfis de outros programas.
 
 Mas a boa notícia é que ele é bem fácil de configurar! Em poucos minutos, você monta seus perfis e já tá pronto pra usar. ⚙️🚀
+
+---
 
 ## 🧙‍♂️ Em resumo...
 
